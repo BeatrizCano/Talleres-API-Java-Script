@@ -1,0 +1,23 @@
+#Taller Api Dad Jokes
+
+<h3>Instrucciones de Implementación</h3>
+
+<ol>
+<li>Ver el video de explicación de reto.</li>
+<li>Recursos: HTML con las clases correspondientes, css básico y js con la estructura que debes seguir:</li>
+   <li>En este caso te damos una estructura guía donde debes encontrar las variables e identificadores necesarios en cada caso.</li>
+<li>Deberás completar el css y el js para que el reto funcione.</li>
+</ol>
+
+<h3>Resultado:</h3> 
+<p>El reto debe ser igual al que visualizas en el video (puedes cambiar colores e imagenes), debes crear un buen body para que sea como el del video.</p>
+
+<h3>¡HINTS!</h3>
+
+<p>CSS: Debes nombrar las clases</p>
+
+<p>JS</p>
+<uL>
+   <li>Las pistas están en el archivo</li>
+   <li>Revisa la documentación de ASYNC AWAIT</li>
+</uL>
